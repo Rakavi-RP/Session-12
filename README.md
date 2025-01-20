@@ -48,7 +48,7 @@ The model is deployed on Hugging Face Spaces and can be accessed here:
 [GPT Text Generation Space](https://huggingface.co/spaces/Rakavi12/GPT_Text_Generation)
 
 ### Interface Screenshot
-![GPT Text Generation Interface](path/to/your/Screenshot.png)
+![GPT Text Generation Interface](assets/Screenshot.png)
 
 ### Example Usage
 
