@@ -7,7 +7,7 @@ A custom GPT model trained on text data and deployed on Hugging Face Spaces for 
 ```
 ├── A12.ipynb           # Training notebook with model implementation
 ├── app.py              # Gradio interface for model deployment
-├── assets/            # Images and media files
+├── assets/            # Images folder
 │   └── Screenshot.png # Interface screenshot
 ├── best_model.pt       # Trained model weights (523 MB)
 ├── input.txt           # Training data
@@ -15,7 +15,7 @@ A custom GPT model trained on text data and deployed on Hugging Face Spaces for 
 └── README.md          # Project documentation
 ```
 
-Note: Due to size limitations, best_model.pt (523 MB) might not be included in the GitHub repository. The model file is deployed directly to Hugging Face Spaces.
+Note: Due to size limitations, best_model.pt is not included in the GitHub repository. The model file is deployed directly to Hugging Face Spaces.
 
 ## Model Details
 
