@@ -54,6 +54,7 @@ The model is deployed on Hugging Face Spaces and can be accessed here:
 
 **Input:**
 Once upon a time
+
 **Maximum Length:** 30
 
 **Number of Sequences:** 2
